@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 readonly INSTALL_WAIT_OFF="${1-0}"
 
